@@ -1,0 +1,5 @@
+__pycache__/
+latest/
+previous/
+filerotate_with_logging.py
+
